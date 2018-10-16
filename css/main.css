@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html, body{
+  height: 100%;
+}
+body{
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Arial;
+}
+.container{
+  width: 1170px;
+  margin: 0 auto;
+  padding:55px 0 0;
+}
+header{
+  background-color: #000;
+  color: #fff;
+}
+header h1{
+  margin: 0;
+  text-transform: uppercase;
+}
+header h2{
+  text-transform: uppercase;
+    font-size: 44px;
+}
+header li a{
+  color: white;
+  text-transform: uppercase;
+  font-size: 14px;
+}
